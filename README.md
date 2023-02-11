@@ -26,14 +26,11 @@
 
 <p>Remember that cybersecurity is an ever-evolving field, so it's important to keep up with it.</p>
 
-<p>Study Trail</p>
-<ol>
-<li>Computer Network</li>
-<li>Operational System</li>
-<li>Programming Logic</li>
-</ol>
+<h3>Study Trail</h3>
 
-<p>Courses</p>
+<img height="250" src="/Users/alexandredasilvasantos/Library/Mobile Documents/com~apple~CloudDocs/Workspace/1-cyber-security-skills-roadmap/img/cyber-security-skills-roadmap.jpeg" width="450"/>
+
+<h3>Courses</h3>
 <ul>
 <li>Fortinet Training Institute - <a href="https://training.fortinet.com/login/signup.php?">NSE1, NSE2 e NS3</a></li>
 <li>AWS - <a href="https://explore.skillbuilder.aws/learn/signin">Training and Certification</a></li>
