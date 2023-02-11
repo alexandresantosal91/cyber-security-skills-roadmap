@@ -28,7 +28,7 @@
 
 <h3>Study Trail</h3>
 
-<img height="250" src="/Users/alexandredasilvasantos/Library/Mobile Documents/com~apple~CloudDocs/Workspace/1-cyber-security-skills-roadmap/img/cyber-security-skills-roadmap.jpeg" width="450"/>
+![cyber-security-skills-roadmap.jpeg](img%2Fcyber-security-skills-roadmap.jpeg)
 
 <h3>Courses</h3>
 <ul>
@@ -36,8 +36,14 @@
 <li>AWS - <a href="https://explore.skillbuilder.aws/learn/signin">Training and Certification</a></li>
 <li>Cisco Networking Academy - <a href="https://skillsforall.com/career-path/cybersecurity?userLang=pt-BR">Segurança cibernética</a></li>
 
+<h3>Security Certification Roadmap</h3>
+
+![certification-roadmap.png](img%2Fcertification-roadmap.png)
 
 </ul>
+
+<h3>Fontes</h3>
+[Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
 
 <h1>em-desenvolvimento</h1>
   
