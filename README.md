@@ -30,7 +30,7 @@
 <ol>
 <li>Computer Network</li>
 <li>Operational System</li>
-<li>Programming Logic:</li>
+<li>Programming Logic</li>
 </ol>
 
 <p>Courses</p>
