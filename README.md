@@ -33,7 +33,6 @@
 <h3>Courses</h3>
 <ul>
 <li>Fortinet Training Institute - <a href="https://training.fortinet.com/login/signup.php?">NSE1, NSE2 e NS3</a></li>
-<li>AWS - <a href="https://explore.skillbuilder.aws/learn/signin">Training and Certification</a></li>
 <li>Cisco Networking Academy - <a href="https://skillsforall.com/career-path/cybersecurity?userLang=pt-BR">Segurança cibernética</a></li>
 </ul>
 
