@@ -30,14 +30,6 @@
 
 ![cyber-security-skills-roadmap.jpeg](img%2Fcyber-security-skills-roadmap.jpeg)
 
-<h3>Courses</h3>
-<ul>
-<li>Fortinet Training Institute - <a href="https://training.fortinet.com/login/signup.php?">NSE1, NSE2 e NS3</a></li>
-<li>Cisco Networking Academy - <a href="https://skillsforall.com/career-path/cybersecurity?userLang=pt-BR">Segurança cibernética</a></li>
-</ul>
-
-<h3>Security Certification Roadmap</h3>
-
 ![certification-roadmap.png](img%2Fcertification-roadmap.png)
 fonte: [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
 
